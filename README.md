@@ -28,7 +28,7 @@ This is a personal portfolio website created by Pallavi Khandekar to showcase we
 
 ## Live Demo
 
-[Portfolio Live Link](https://pallavi-khandekar.github.io/Mini-Project/) *(update with your actual link if different)*
+[Portfolio Live Link]( https://pallavi-khandekar.github.io/Mini-Project/) *(update with your actual link if different)*
 
 ## Folder Structure
 
